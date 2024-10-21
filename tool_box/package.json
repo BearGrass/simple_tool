@@ -1,0 +1,13 @@
+{
+    "name": "electron-python-toolset",
+    "version": "1.0.0",
+    "main": "src/main.js",
+    "scripts": {
+      "start": "electron .",
+      "server": "python python-server.py"
+    },
+    "dependencies": {
+      "electron": "^13.0.0",
+      "axios": "^0.21.1"
+    }
+  }
