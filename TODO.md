@@ -1,0 +1,4 @@
+- 管理Windows、macOS、Linux的hosts文件
+  - 具备添加、删除、备份功能
+  - 具备测试格式功能
+  - 具备测试host是否生效功能
